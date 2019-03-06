@@ -3,7 +3,7 @@
 # Repositorio de la practica:
 # Practica realizada en grupo:
 - Diego Santamarta
-- Mohamed Khouyaui
+- Mohamed Khouyaoui
 
 
 https://github.com/khouyaoui/ProgramacionC/
